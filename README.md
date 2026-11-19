@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Sharif Munshi Banner">
+</p>
 <h1 align="center">Hi 👋, I'm Sharif Munshi</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh, focused on building modern, responsive web applications with React. Currently exploring Backend Development to become a Full-Stack Developer.</h3>
 
