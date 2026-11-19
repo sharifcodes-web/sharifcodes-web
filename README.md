@@ -1,5 +1,5 @@
 
-<img width="2048" height="768" alt="Banner" src="https://github.com/user-attachments/assets/58344005-065c-4473-876b-1e8b4af28112" />
+
 <p align="center">
   <img src="./banner.png" width="100%" alt="Sharif Munshi Banner">
 </p>
